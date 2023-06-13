@@ -106,6 +106,7 @@
   
   .navbar-links li {
     margin-right: 10px;
+    /* color: white; */
   }
   
   .navbar-links li:last-child {
@@ -195,6 +196,7 @@
     margin-top: 10px;
     padding: 0;
     margin-right: 300px;
+    color: white;
   }
   
   .footer-links li {
@@ -203,7 +205,7 @@
   
   .footer-links li a {
     text-decoration: none;
-    color: #686262;
+    color: white;
   }
   
   .footer-links li a:hover {
